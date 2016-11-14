@@ -1,0 +1,78 @@
+cities:
+    -
+        city: 'Erfurt'
+        country: 'Germany'
+    -
+        city: 'San-Francisco'
+        country: 'USA'
+    -
+        city: 'Capetown'
+        country: 'South Africa'
+    -
+        city: 'Pekin'
+        country: 'China'
+    -
+        city: 'Essen'
+        country: 'Germany'
+    -
+        city: 'Hamburg'
+        country: 'Germany'
+    -
+        city: 'Atlanta'
+        country: 'USA'
+
+students:
+    -
+        name: 'Mark'
+        surname: 'Schmidt'
+        course:3
+        is_male:true
+        city_id:1
+    -
+        name:'Helen'
+        surname:'Hunt'
+        course:2
+        is_male:false
+        city_id:2
+    -
+        name:'Matumba'
+        surname:'Zuko'
+        course:4
+        is_male:true
+        city_id:3
+    -
+        name:'Rin'
+        surname:'Kupo'
+        course:4
+        is_male:false
+        city_id:3
+    -
+        name:'Zhen'
+        surname:'Chi Bao'
+        course:2
+        is_male:true
+        city_id:4
+    -
+        name:'Peter'
+        surname:'Zimmer'
+        course:3
+        is_male:true
+        city_id:5
+    -
+        name:'Hanz'
+        surname:'Mueller'
+        course:4
+        is_male:true
+        city_id:6
+    -
+        name:'Alisa'
+        surname:'Kepler'
+        course:4
+        is_male:false
+        city_id:1
+    -
+        name:'Anna'
+        surname:'Madavie'
+        course:2
+        is_male:false
+        city_id:'7'

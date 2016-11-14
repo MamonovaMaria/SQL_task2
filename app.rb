@@ -7,7 +7,7 @@ require "yaml"
 require_relative "modules/inser"
 
 @config = YAML.load_file("config.yml").to_dot
-
+@data = YAML.load_file("data.yml").to_dot
 
 DB = Sequel.connect(
     :adapter => 'mysql2',
